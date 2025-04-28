@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda project settings
+anaconda_projects
+
+# Ignore virtual environments and related files
+.virtual_documents/
+*.env
+*.pyc
